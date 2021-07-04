@@ -1,6 +1,10 @@
-# flappybird_app
+# Flappy Bird Game
 
-A new Flutter application.
+Flappy Bird is a side-scroller where the player controls a bird, attempting to fly between columns of green pipes without hitting them.
+
+## Demo:
+https://user-images.githubusercontent.com/53579386/124386145-9ed8b580-dcf6-11eb-9750-3b3aefeb7da1.mp4 
+
 
 ## Getting Started
 
